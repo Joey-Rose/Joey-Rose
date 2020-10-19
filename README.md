@@ -6,7 +6,7 @@
 <a href=https://joeyrose.dev/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="Portfolio website" height="20" width="20" /></a>
 </p>
 <p>
-👷‍ I’m currently interning at Promethium. I'm actively seeking out opportunities for Summer 2021. Check out my <a href=https://joeyrose.dev/img/resume.pdf>resume!</a>
+👷‍ I’m currently interning at Promethium. I'm actively seeking out opportunities for Spring and Summer 2021. Check out my <a href=https://joeyrose.dev/img/resume.pdf>resume!</a>
 
 💬 Ask me about my internship, projects, Oxy Open Source, or anything else!
 </p>
