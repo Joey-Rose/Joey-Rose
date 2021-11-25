@@ -7,5 +7,5 @@
 </p>
 <p>
 
-💬 Ask me about my internships, projects, Oxy Open Source, or anything else!
+💬 Ask me about my projects, Oxy Open Source, or anything else!
 </p>
